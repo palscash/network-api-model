@@ -2,9 +2,9 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.palscash</groupId>
-	<artifactId>com.palscash.network.api.model</artifactId>
-	<version>2.1-SNAPSHOT</version>
+	<groupId>org.palscash</groupId>
+	<artifactId>org.palscash.network.api.model</artifactId>
+	<version>2.0-SNAPSHOT</version>
 
 	<name>PalsCash Network API Model</name>
 	<url>http://palscash.org</url>
